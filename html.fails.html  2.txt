@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang0="lv">
+    <head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Pārbaudes darbs 2</title>
+ <!--Saite uz ārējo CSS-->
+ <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <!--Galvene-->
+    <header>
+        <h1>Pārbaudes darbs 2</h1>
+        <h2><html+CSS</h2>
+<!--Saturs ar tekstu un galeriju-->
+<main>
+    <div class="content">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempor ipsum ac
+tempor ultricies. Etiam odio mauris, ultrices ac nibh eget, condimentum ullamcorper tortor.
+Quisque accumsan ipsum vel odio volutpat varius.
+</p>
+</div>
+<div class="gallery">
+    <!--Attēlu kartiņas-->
+<div class="card">
+<img src="html15-logo.png" alt="HTML5">
+<p><strong>Img 1</strong><br>Text</p>
+</div>
+<div class="card">
+<img src="html15-logo.png" alt="HTML5">
+<p><strong>Img 2</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 3</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 4</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 5</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 6</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 7</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 8</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 9</strong><br>Text</p>
+</div>
+
+<div class="card">
+<img src="html5-logo.png" alt="HTML5">
+<p><strong>Img 10</strong><br>Text</p>
+</div>
+</div>
+    <div class="content">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vestibulum tempor ipsum actempor ultricies. 
+Etiam odio mauris, ultrices ac nibh eget, condimentum ullamcorper tortor.
+</p>
+    </div>
+</main>
+<!--Kājene-->
+<footer>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vestibulum tempor ipsum ac tempor ultricies.
+Quisque accumsan ipsum vel odio volutpat varius.   
+</p>
+</footer>
+</body>
+</html>
+    
+    
+    
+                                        

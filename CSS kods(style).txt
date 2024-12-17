@@ -1,0 +1,66 @@
+/*Vispārīgie stili*/
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+body{
+font-family:Arial,sans-serif;
+background-color: aqua;
+color: aquamarine;
+}
+/*Galvene*/
+header{
+background-color: azure;
+color: beige;
+text-align: center;
+padding: 20px 0;
+}
+header h1 {
+    font-size: 2.5rem;
+}
+header h2 {
+font-size: 1,5rem;
+}
+/*Galvenais saturs*/
+main {
+padding: 20px;
+}
+
+.content {
+text-align: justify;
+margin: 20px 0;
+}
+
+.gallery {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+gap: 20px;
+justify-items: center;
+}
+
+.card {
+background-color: rgb(148, 92, 9);
+border: 1px solid;
+border-radius: 5px;
+text-align: center;
+box-shadow: 0 2px 4px rgba(0,0,0,0,0.1)
+}
+
+.card p {
+padding: 10px;
+font-size: 0.9rem;
+}
+
+.card:hover {
+transform: scale(1.05);
+}
+
+/*Kājene*/
+footer {
+background-color: blue;
+color: blueviolet;
+text-align: center;
+padding: 15px 20px;
+margin-top: 20px;
+}
